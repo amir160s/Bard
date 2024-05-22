@@ -1,8 +1,5 @@
 
-# E-Books
-[LiveLink](https://e-books-library.netlify.app/)  
-
-https://e-books-library.netlify.app/
+# Bard
 
 This Website is made By Aminul Islam. Batch 9 Student of Programming Hero
 
