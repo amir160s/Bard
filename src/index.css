@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  border: 2px solid #23be0a;
+  border-radius: 7px;
+  padding: 10px 12px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: background-color;
+  transition-duration: 0.3s;
+}
+.active:hover {
+  background-color: #52df3c;
+  color: white;
+}
+
+.bg {
+  background-image: url("/purposeBg.jpg");
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
